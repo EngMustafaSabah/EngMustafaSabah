@@ -7,14 +7,18 @@ Passionate developer focused on building robust and efficient solutions across w
 
 I enjoy tackling complex problems and creating projects that push technological boundaries. My expertise includes:
 
-* **Backend Development:** Building scalable APIs and web applications with Laravel, Node.js, and NestJS, including FilamentPHP.
-* **Frontend Development:** Crafting engaging user interfaces with React, Angular, Vue.js, Nuxt.js, Next.js, Bootstrap, and Tailwind CSS.
+* **Team Leadership:** Experienced in leading mobile, web, and design teams.
+* **Co-Founder Experience:** Proven ability to contribute to and drive startup initiatives.
+* **Backend Development:** Building scalable APIs and web applications with Laravel, Node.js, NestJS,TypeScript, Express.js, Directus, Strapi CMS, including FilamentPHP.
+* **Frontend Development:** Crafting engaging user interfaces with React, Angular, Vue.js, Nuxt.js, Next.js, Bootstrap, Tailwind CSS, and Progressive Web Applications (PWAs).
+* **Project Management:** Proficient in using Scrum, Kanban, and Jira.
 * **Microservices & DevOps:** Designing and deploying distributed systems with a focus on automation and efficiency.
 * **Cloud Infrastructure:** Experience with AWS, Azure, and DigitalOcean for scalable deployments.
 * **Container Orchestration:** Deploying and managing containerized applications with Kubernetes.
 * **SaaS Development:** Building and deploying Software as a Service applications.
 * **CI/CD:** Implementing continuous integration and continuous deployment pipelines using GitHub Actions, GitLab CI/CD, and Jenkins.
 * **Software Architecture:** Applying Domain-Driven Design (DDD) and Test-Driven Development (TDD) principles.
+* **Design Patterns:** Proficient in applying SOLID principles and various design patterns (e.g., Singleton, Factory, Observer, etc.) for robust and maintainable code.
 * **Caching & Search:** Implementing caching strategies with Redis, Memcached, and APCu, and search functionalities with Elasticsearch, TNT Search, Algolia, and Typesense.
 * **Message Queues:** Using RabbitMQ and Kafka for asynchronous communication.
 * **Process Management:** Utilizing Supervisor for process monitoring and management.
@@ -26,6 +30,7 @@ I enjoy tackling complex problems and creating projects that push technological 
 * **Operating Systems:** Linux, Windows, macOS, and their server distributions.
 * **Locations:** Based in Egypt, with Estonian e-Residency.
 * **Relocation Ready:** I can relocate to any country without sponsorship.
+
 
 ## Languages
 
