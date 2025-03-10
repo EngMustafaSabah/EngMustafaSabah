@@ -6,7 +6,7 @@ Passionate developer focused on building robust and efficient solutions across w
 
 I enjoy tackling complex problems and creating projects that push technological boundaries. My expertise includes:
 
-* **Backend Development:** Building scalable APIs and web applications with Laravel, Node.js, and NestJS.
+* **Backend Development:** Building scalable APIs and web applications with Laravel, Node.js, and NestJS, including FilamentPHP.
 * **Frontend Development:** Crafting engaging user interfaces with React, Angular, Vue.js, Nuxt.js, Next.js, Bootstrap, and Tailwind CSS.
 * **Microservices & DevOps:** Designing and deploying distributed systems with a focus on automation and efficiency.
 * **Cloud Infrastructure:** Experience with AWS, Azure, and DigitalOcean for scalable deployments.
@@ -14,6 +14,12 @@ I enjoy tackling complex problems and creating projects that push technological 
 * **SaaS Development:** Building and deploying Software as a Service applications.
 * **CI/CD:** Implementing continuous integration and continuous deployment pipelines using GitHub Actions, GitLab CI/CD, and Jenkins.
 * **Version Control:** Proficient with Git, GitHub, GitLab, and Bitbucket.
+* **Software Architecture:** Applying Domain-Driven Design (DDD) and Test-Driven Development (TDD) principles.
+* **Caching:** Implementing caching strategies with Redis and Memcached.
+* **Search:** Integrating search functionalities with Elasticsearch, TNT Search, Algolia, and Typesense.
+* **Message Queues:** Utilizing RabbitMQ and Kafka for asynchronous communication.
+* **Process Management:** Using Supervisor for process monitoring and management.
+* **ACPU:** Experience with ACPU (Adaptable CPU).
 * **Scripting & Automation:** Enhancing workflows through Bash scripting.
 * **Containerization:** Streamlining deployment with Docker and Docker Compose.
 * **Locations:** Based in Egypt, with Estonian e-Residency.
@@ -46,6 +52,10 @@ I enjoy tackling complex problems and creating projects that push technological 
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0747A6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+[![Kafka](https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
 
 ## What You'll Find Here
 
