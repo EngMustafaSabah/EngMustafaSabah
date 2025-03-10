@@ -1,4 +1,5 @@
 # Hi, I'm EngMustafaSabah 👋
+
 Passionate developer focused on building robust and efficient solutions across web development and automation.
 
 ## About Me
@@ -6,9 +7,10 @@ Passionate developer focused on building robust and efficient solutions across w
 I enjoy tackling complex problems and creating projects that push technological boundaries. My expertise includes:
 
 * **Backend Development:** Building scalable APIs and web applications with Laravel, Node.js, and NestJS.
+* **Frontend Development:** Crafting engaging user interfaces with React and Angular.
+* **Microservices & DevOps:** Designing and deploying distributed systems with a focus on automation and efficiency.
 * **Scripting & Automation:** Enhancing workflows through Bash scripting.
 * **Containerization:** Streamlining deployment with Docker and Docker Compose.
-
 
 ## Skills
 
@@ -16,7 +18,9 @@ I enjoy tackling complex problems and creating projects that push technological 
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=apache-spark&logoColor=white)](https://www.gnu.org/software/bash/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
