@@ -10,7 +10,10 @@ I enjoy tackling complex problems and creating projects that push technological 
 * **Frontend Development:** Crafting engaging user interfaces with React, Angular, Vue.js, Nuxt.js, Next.js, Bootstrap, and Tailwind CSS.
 * **Microservices & DevOps:** Designing and deploying distributed systems with a focus on automation and efficiency.
 * **Cloud Infrastructure:** Experience with AWS, Azure, and DigitalOcean for scalable deployments.
+* **Container Orchestration:** Deploying and managing containerized applications with Kubernetes.
 * **SaaS Development:** Building and deploying Software as a Service applications.
+* **CI/CD:** Implementing continuous integration and continuous deployment pipelines using GitHub Actions, GitLab CI/CD, and Jenkins.
+* **Version Control:** Proficient with Git, GitHub, GitLab, and Bitbucket.
 * **Scripting & Automation:** Enhancing workflows through Bash scripting.
 * **Containerization:** Streamlining deployment with Docker and Docker Compose.
 * **Locations:** Based in Egypt, with Estonian e-Residency.
@@ -38,6 +41,11 @@ I enjoy tackling complex problems and creating projects that push technological 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0747A6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 
 ## What You'll Find Here
 
