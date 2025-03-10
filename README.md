@@ -1,6 +1,5 @@
-# Hi, I'm EngMustafaSabah 👋 
-Passionate developer focused on building robust 
-and efficient solutions across web development and automation. <img src="https://avatars.githubusercontent.com/u/44289179?v=4" alt="Profile Picture" width="150" height="150" />
+# Hi, I'm EngMustafaSabah 👋 <img src="https://avatars.githubusercontent.com/u/44289179?v=4" alt="Profile Picture" width="150" height="150" />
+Passionate developer focused on building robust and efficient solutions across web development and automation.
 
 ## About Me
 
