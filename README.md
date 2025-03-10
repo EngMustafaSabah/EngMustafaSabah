@@ -1,5 +1,4 @@
-# Hi, I'm EngMustafaSabah 👋
-
+# Hi, I'm EngMustafaSabah 👋 <img src="https://avatars.githubusercontent.com/u/44289179?v=4" alt="Profile Picture" width="150" height="150" />
 Passionate developer focused on building robust and efficient solutions across web development and automation.
 
 ## About Me
@@ -10,7 +9,6 @@ I enjoy tackling complex problems and creating projects that push technological 
 * **Scripting & Automation:** Enhancing workflows through Bash scripting.
 * **Containerization:** Streamlining deployment with Docker and Docker Compose.
 
-<img src="https://avatars.githubusercontent.com/u/44289179?v=4" alt="Profile Picture" width="150" height="150" />
 
 ## Skills
 
