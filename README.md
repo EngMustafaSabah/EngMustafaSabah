@@ -1,6 +1,5 @@
 # Hi, I'm EngMustafaSabah 👋
 
-[![Profile Picture](https://avatars.githubusercontent.com/u/44289179?v=4)](https://github.com/EngMustafaSabah)
 
 Passionate developer focused on building robust and efficient solutions across web development and automation.
 
@@ -11,6 +10,8 @@ I enjoy tackling complex problems and creating projects that push technological 
 * **Backend Development:** Building scalable APIs and web applications with Laravel, Node.js, and NestJS.
 * **Scripting & Automation:** Enhancing workflows through Bash scripting.
 * **Containerization:** Streamlining deployment with Docker and Docker Compose.
+
+[![Profile Picture](https://avatars.githubusercontent.com/u/44289179?v=4)](https://github.com/EngMustafaSabah)
 
 ## Skills
 
