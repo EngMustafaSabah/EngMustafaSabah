@@ -31,7 +31,7 @@ My repositories contain a mix of personal projects and professional work. Due to
 
 * **Phone:** +201098440518
 * **Email:** eng.m.sabah@gmail.com
-* **LinkedIn:** www.lonkedin.com/in/mustafa-sabah
+* **LinkedIn:** www.linkedin.com/in/mustafa-sabah
 
 ## Contributions
 
