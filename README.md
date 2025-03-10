@@ -1,23 +1,16 @@
 # Hi, I'm EngMustafaSabah 👋
 
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://avatars.githubusercontent.com/u/44289179?v=4" alt="Profile Picture" />
-    </td>
-    <td valign="top">
-      Passionate developer focused on building robust and efficient solutions across web development and automation.
+Passionate developer focused on building robust and efficient solutions across web development and automation.
 
-      ## About Me
+## About Me
 
-      I enjoy tackling complex problems and creating projects that push technological boundaries. My expertise includes:
+I enjoy tackling complex problems and creating projects that push technological boundaries. My expertise includes:
 
-      * **Backend Development:** Building scalable APIs and web applications with Laravel, Node.js, and NestJS.
-      * **Scripting & Automation:** Enhancing workflows through Bash scripting.
-      * **Containerization:** Streamlining deployment with Docker and Docker Compose.
-    </td>
-  </tr>
-</table>
+* **Backend Development:** Building scalable APIs and web applications with Laravel, Node.js, and NestJS.
+* **Scripting & Automation:** Enhancing workflows through Bash scripting.
+* **Containerization:** Streamlining deployment with Docker and Docker Compose.
+
+<img src="https://avatars.githubusercontent.com/u/44289179?v=4" alt="Profile Picture" width="150" height="150" />
 
 ## Skills
 
@@ -25,10 +18,10 @@
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=apache-spark&logoColor=white)](https://www.gnu/software/bash/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=apache-spark&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style-for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
 ## What You'll Find Here
 
