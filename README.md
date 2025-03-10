@@ -22,6 +22,43 @@ I enjoy tackling complex problems and creating projects that push technological 
 * **Containerization:** Streamlining deployment with Docker and Docker Compose.
 * **Locations:** Based in Egypt, with Estonian e-Residency.
 
+## Experience
+
+**Sr. Software Engineer** | LikeCard | June 2024 - Present
+
+* Integrated various payment solutions as microservices.
+* Led the transition to a SaaS-based model.
+* Optimized deployment processes with a microservices architecture.
+* Enhanced invoice management using microservices.
+
+**Software Engineer** | Etmana | December 2023 - June 2024
+
+* Integrated payment solutions (Paymob, MyFatoorah, Tabby).
+* Led the transition to a SaaS-based model.
+* Optimized deployment with Docker, Linux, and Kubernetes.
+* Enhanced invoice management.
+
+**Software Engineer** | Datac | October 2019 - December 2023
+
+* Developed scalable databases and APIs.
+* Implemented a comprehensive testing strategy.
+* Managed project timelines with DevOps and Agile methodologies.
+* Reduced development costs through strategic tool use and automation.
+
+**Software Engineer** | POSLIX | June 2022 - January 2023
+
+* Optimized product modules and billing features.
+* Managed tasks using Scrum methodology.
+* Reduced development costs.
+* Ensured high-quality software through testing.
+
+**Software Engineer** | Akwanmedia | November 2018 - September 2019
+
+* Developed robust databases and web portals.
+* Managed project timelines with Agile methodologies.
+* Optimized database performance and implemented cost-effective solutions.
+* Conducted rigorous testing.
+
 ## Skills
 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
@@ -51,6 +88,7 @@ I enjoy tackling complex problems and creating projects that push technological 
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![Memcached](https://img.shields.io/badge/Memcached-000000?style=for-the-badge&logo=memcached&logoColor=white)](https://memcached.org/)
 [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 [![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=kafka&logoColor=white)](https://kafka.apache.org/)
