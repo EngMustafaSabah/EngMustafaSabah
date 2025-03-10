@@ -11,6 +11,7 @@ I enjoy tackling complex problems and creating projects that push technological 
 * **Microservices & DevOps:** Designing and deploying distributed systems with a focus on automation and efficiency.
 * **Scripting & Automation:** Enhancing workflows through Bash scripting.
 * **Containerization:** Streamlining deployment with Docker and Docker Compose.
+* **Locations:** Based in Egypt, with Estonian e-Residency.
 
 ## Skills
 
