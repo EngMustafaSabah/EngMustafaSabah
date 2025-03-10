@@ -20,7 +20,10 @@ I enjoy tackling complex problems and creating projects that push technological 
 * **Version Control:** Proficient with Git, GitHub, GitLab, and Bitbucket.
 * **Scripting & Automation:** Enhancing workflows through Bash scripting.
 * **Containerization:** Streamlining deployment with Docker and Docker Compose.
-* **Locations:** Based in Egypt, with Estonian e-Residency.
+* **Payment Integrations:** Integrating various payment gateways and orchestrating payment flows.
+* **Payment Orchestration:** Designing and implementing payment orchestration layers.
+* **Operating Systems:** Linux, Windows, macOS, and their server distributions.
+* **Locations:** Based in Egypt, with Estonian e-Residency. **Relocation Ready: I can relocate to any country without sponsorship.**
 
 ## Languages
 
@@ -107,7 +110,7 @@ My repositories contain a mix of personal projects and professional work. Due to
 * **Phone:** +201098440518
 * **Email:** eng.m.sabah@gmail.com
 * **LinkedIn:** www.linkedin.com/in/mustafa-sabah
-* **LeetCode:** (https://leetcode.com/u/engmsabah)
+* **LeetCode:** https://leetcode.com/u/engmsabah
 
 ## Contributions
 
