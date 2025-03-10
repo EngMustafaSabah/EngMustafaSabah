@@ -53,6 +53,7 @@ I enjoy tackling complex problems and creating projects that push technological 
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=kafka&logoColor=white)](https://kafka.apache.org/)
 [![Kafka](https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/) 
 
 ## What You'll Find Here
