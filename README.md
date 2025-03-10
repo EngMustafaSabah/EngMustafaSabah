@@ -13,13 +13,11 @@ I enjoy tackling complex problems and creating projects that push technological 
 * **Container Orchestration:** Deploying and managing containerized applications with Kubernetes.
 * **SaaS Development:** Building and deploying Software as a Service applications.
 * **CI/CD:** Implementing continuous integration and continuous deployment pipelines using GitHub Actions, GitLab CI/CD, and Jenkins.
-* **Version Control:** Proficient with Git, GitHub, GitLab, and Bitbucket.
 * **Software Architecture:** Applying Domain-Driven Design (DDD) and Test-Driven Development (TDD) principles.
-* **Caching:** Implementing caching strategies with Redis and Memcached.
-* **Search:** Integrating search functionalities with Elasticsearch, TNT Search, Algolia, and Typesense.
-* **Message Queues:** Utilizing RabbitMQ and Kafka for asynchronous communication.
-* **Process Management:** Using Supervisor for process monitoring and management.
-* **ACPU:** Experience with ACPU (Adaptable CPU).
+* **Caching & Search:** Implementing caching strategies with Redis, Memcached, and APCu, and search functionalities with Elasticsearch, TNT Search, Algolia, and Typesense.
+* **Message Queues:** Using RabbitMQ and Kafka for asynchronous communication.
+* **Process Management:** Utilizing Supervisor for process monitoring and management.
+* **Version Control:** Proficient with Git, GitHub, GitLab, and Bitbucket.
 * **Scripting & Automation:** Enhancing workflows through Bash scripting.
 * **Containerization:** Streamlining deployment with Docker and Docker Compose.
 * **Locations:** Based in Egypt, with Estonian e-Residency.
