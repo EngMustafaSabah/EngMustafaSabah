@@ -31,12 +31,6 @@ I enjoy tackling complex problems and creating projects that push technological 
 * **Locations:** Based in Egypt, with Estonian e-Residency.
 * **Relocation Ready:** I can relocate to any country without sponsorship.
 
-
-## Languages
-
-* Arabic (Native)
-* English (Fluent)
-
 ## Experience
 
 **Sr. Software Engineer** | LikeCard | June 2024 - Present
@@ -118,6 +112,11 @@ My repositories contain a mix of personal projects and professional work. Due to
 * **Email:** eng.m.sabah@gmail.com
 * **LinkedIn:** www.linkedin.com/in/mustafa-sabah
 * **LeetCode:** https://leetcode.com/u/engmsabah
+
+## Languages
+
+* Arabic (Native)
+* English (Fluent)
 
 ## Contributions
 
