@@ -22,6 +22,11 @@ I enjoy tackling complex problems and creating projects that push technological 
 * **Containerization:** Streamlining deployment with Docker and Docker Compose.
 * **Locations:** Based in Egypt, with Estonian e-Residency.
 
+## Languages
+
+* Arabic (Native)
+* English (Fluent)
+
 ## Experience
 
 **Sr. Software Engineer** | LikeCard | June 2024 - Present
