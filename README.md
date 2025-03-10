@@ -7,7 +7,7 @@ Passionate developer focused on building robust and efficient solutions across w
 I enjoy tackling complex problems and creating projects that push technological boundaries. My expertise includes:
 
 * **Backend Development:** Building scalable APIs and web applications with Laravel, Node.js, and NestJS.
-* **Frontend Development:** Crafting engaging user interfaces with React and Angular.
+* **Frontend Development:** Crafting engaging user interfaces with React, Angular, Vue.js, Nuxt.js, Next.js, Bootstrap, and Tailwind CSS.
 * **Microservices & DevOps:** Designing and deploying distributed systems with a focus on automation and efficiency.
 * **Scripting & Automation:** Enhancing workflows through Bash scripting.
 * **Containerization:** Streamlining deployment with Docker and Docker Compose.
@@ -21,6 +21,11 @@ I enjoy tackling complex problems and creating projects that push technological 
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
