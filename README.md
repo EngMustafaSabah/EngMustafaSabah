@@ -9,7 +9,7 @@ I enjoy tackling complex problems and creating projects that push technological 
 
 * **Team Leadership:** Experienced in leading mobile, web, and design teams.
 * **Co-Founder Experience:** Proven ability to contribute to and drive startup initiatives.
-* **Backend Development:** Building scalable APIs and web applications with Laravel, Node.js, NestJS,TypeScript, Express.js, Directus, Strapi CMS, including FilamentPHP.
+* **Backend Development:** Building scalable APIs and web applications with Laravel, Node.js, NestJS, TypeScript, Express.js, Browser Extensions, Directus, Strapi CMS, including FilamentPHP.
 * **Frontend Development:** Crafting engaging user interfaces with React, Angular, Vue.js, Nuxt.js, Next.js, Bootstrap, Tailwind CSS, and Progressive Web Applications (PWAs).
 * **Project Management:** Proficient in using Scrum, Kanban, and Jira.
 * **Microservices & DevOps:** Designing and deploying distributed systems with a focus on automation and efficiency.
