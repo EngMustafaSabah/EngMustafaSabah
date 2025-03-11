@@ -19,6 +19,7 @@ I enjoy tackling complex problems and creating projects that push technological 
 * **CI/CD:** Implementing continuous integration and continuous deployment pipelines using GitHub Actions, GitLab CI/CD, and Jenkins.
 * **Software Architecture:** Applying Domain-Driven Design (DDD) and Test-Driven Development (TDD) principles.
 * **Design Patterns:** Proficient in applying SOLID principles and various design patterns (e.g., Singleton, Factory, Observer, etc.) for robust and maintainable code.
+* * **API Development:** Expertise in building RESTful APIs, GraphQL APIs, and gRPC services.
 * **Caching & Search:** Implementing caching strategies with Redis, Memcached, and APCu, and search functionalities with Elasticsearch, TNT Search, Algolia, and Typesense.
 * **Message Queues:** Using RabbitMQ and Kafka for asynchronous communication.
 * **Process Management:** Utilizing Supervisor for process monitoring and management.
